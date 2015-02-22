@@ -1,6 +1,6 @@
 #!/bin/sh
 
-dir=./ascii_art/*
+dir=./ascii_art/lib/*
 files=($dir)
 
 numfiles=${#files[@]}
